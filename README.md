@@ -1,2 +1,2 @@
 # polish
-HTML/CSS
+HTML
